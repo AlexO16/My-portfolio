@@ -155,6 +155,7 @@ img {
 
     .card {
         flex-basis: 100%;
+        text-align: center;
     }
 
     .header {
