@@ -1,5 +1,6 @@
-body{
+body {
     font-size: inherit;
+    font-family: sans-serif;
 }
 
 
@@ -127,6 +128,10 @@ img {
     .header {
         flex-direction: column;
     }
+
+    .row2 {
+        font-size: inherit;
+    }
 }
 
 
@@ -143,6 +148,10 @@ img {
 
     .header {
         flex-direction: column;
+    }
+
+    .row2 {
+        font-size: 100%;
     }
 }
 
@@ -161,5 +170,9 @@ img {
     .header {
         flex-direction: column;
         text-align: center;
+    }
+
+    .row2 {
+        font-size: inherit;
     }
 }
