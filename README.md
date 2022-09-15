@@ -11,7 +11,7 @@ The following screenshot shows the web page apperance:
 
 # Links
 * [Deployed webpage](https://alexo16.github.io/My-portfolio/) 
-* 
+* [Repository](https://github.com/AlexO16/My-portfolio) 
 
 # Credits
 * [University of Minnesota](https://courses.bootcampspot.com/courses/2176/assignments/38767?module_item_id=750311)
