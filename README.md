@@ -2,7 +2,7 @@
 
 # Description
 
-This project is a personal portfolio web page. No code was provided for this build, I built this web page to show what I learned so far from the bootcamp. This portfolio includes working links in navigation that scroll to specific sections on the page. Images of previous projects that when clicked take you to that projects web page. The web page is designed to be view on multiple devices. This portfolio contains a photo, a short paragraph of me and how to contact me.  
+This project is a personal portfolio web page. No code was provided for this build, I built this web page to show what I learned so far from the bootcamp. This portfolio includes working links in navigation that scroll to specific sections on the page. Images of previous projects that when clicked take you to that projects web page. The web page is designed to be view on multiple devices. This portfolio contains a photo and a short paragraph of me and how to contact me.  
 
 # Screenshot
 The following screenshot shows the web page apperance:
