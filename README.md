@@ -10,7 +10,7 @@ The following screenshot shows the web page apperance:
 ![_Users_alex_bootcamp_homework_My-portfolio_index html](https://user-images.githubusercontent.com/110851664/190307518-f0d96c82-6182-4bf7-a39b-c1cae74a8f43.png)
 
 # Links
-
+* [Deployed webpage](https://alexo16.github.io/My-portfolio/) 
 * 
 
 # Credits
