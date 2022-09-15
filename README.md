@@ -7,7 +7,7 @@ This project is a personal portfolio web page. No code was provided for this bui
 # Screenshot
 The following screenshot shows the web page apperance:
 
-![alexo16 github io_My-portfolio_](https://user-images.githubusercontent.com/110851664/190313936-e399ffed-dc8a-4f6e-b08e-e3ae0208b028.png)
+![_Users_alex_bootcamp_homework_My-portfolio_index html](https://user-images.githubusercontent.com/110851664/190516409-c4dbefb7-f3c7-4800-96ae-66a6ce1ead69.png)
 
 # Links
 * [Deployed webpage](https://alexo16.github.io/My-portfolio/) 
