@@ -86,7 +86,8 @@ section#my-projects #cards div .container {
     min-height: 40px;
 }
 
-section#my-projects #cards div.smaller .container {}
+/*section#my-projects #cards div.smaller .container {} */
+
 
 section#my-projects #cards>div:hover {
     box-shadow: 0 8px 16px 0 black;
