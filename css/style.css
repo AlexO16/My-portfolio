@@ -30,6 +30,7 @@ header {
 
 nav {
     font-size: 1.5em;
+    margin-right: 29px;
 
 }
 
@@ -50,18 +51,21 @@ section#about-me {
 
 section#about-me .photo {
     width: 300px;
+    margin-left: 14px;
 }
 
 section#about-me .bio {
     padding-left: 70px;
     font-size: inherit;
     padding-right: 50px;
+    margin-top: 25px;
 }
 
 section#my-projects {
     flex-wrap: wrap;
     flex-direction: column;
     gap: 10px;
+    margin-top: 0px;
 }
 
 section#my-projects #cards {
@@ -99,6 +103,7 @@ footer {
     background-color: lightslategray;
     font-size: 15px;
     text-align: center;
+
 }
 
 ul {
